@@ -1,7 +1,22 @@
 [
   {
     "id": 1,
-    "task": "Buy some Groceries",
-    "completed": false
+    "task": "By some groceries for weight gain",
+    "status": "todo"
+  },
+  {
+    "id": 2,
+    "task": "Go to Work by 10:00am",
+    "status": "done"
+  },
+  {
+    "id": 3,
+    "task": "Complete Task tracker CLI project",
+    "status": "todo"
+  },
+  {
+    "id": 4,
+    "task": "Checking if link worked",
+    "status": "todo"
   }
 ]
