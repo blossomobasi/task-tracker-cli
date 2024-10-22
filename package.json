@@ -1,11 +1,13 @@
 {
-  "name": "task-tracker-cli",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "chalk": "4.1.2",
-    "commander": "^12.1.0",
-    "inquirer": "^12.0.0"
-  }
+    "name": "task-tracker-cli",
+    "version": "1.0.0",
+    "main": "index.js",
+    "bin": {
+        "task-cli": "./index.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "4.1.2",
+        "commander": "^12.1.0"
+    }
 }
