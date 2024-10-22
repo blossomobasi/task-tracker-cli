@@ -110,7 +110,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 -   **Installation**: Explains how to set up the project and use it globally as a CLI tool.
 -   **Usage**: Provides examples of each available command with their expected outputs.
--   **Task Data Storage**: Briefly explains where the task data is stored.
+-   **Example**: Give examples of how to run the commands
 -   **License**: Mentions the licensing (you can adjust this part based on your actual license).
 
 This `README.md` will serve as a helpful guide for users to understand how to install and use your Task CLI!
